@@ -4,8 +4,8 @@ package Task::Kensho::Exceptions;
 BEGIN {
   $Task::Kensho::Exceptions::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34-TRIAL-38-g4e72688
-$Task::Kensho::Exceptions::VERSION = '0.34001'; # TRIAL
+# git description: v0.34001-TRIAL-12-g24fa614
+$Task::Kensho::Exceptions::VERSION = '0.34002'; # TRIAL
 # ABSTRACT: Exception Handling
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Exceptions - Exception Handling
 
 =head1 VERSION
 
-version 0.34001
+version 0.34002
 
 =head1 SYNOPSIS
 
