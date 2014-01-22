@@ -4,7 +4,7 @@ Task::Kensho::Exceptions - A Glimpse at an Enlightened Perl: Exception Handling
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 

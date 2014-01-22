@@ -4,8 +4,8 @@ package Task::Kensho::Exceptions;
 BEGIN {
   $Task::Kensho::Exceptions::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34002-TRIAL-17-gb7402a7
-$Task::Kensho::Exceptions::VERSION = '0.34003'; # TRIAL
+# git description: v0.34003-TRIAL-11-g93f334f
+$Task::Kensho::Exceptions::VERSION = '0.34004'; # TRIAL
 # ABSTRACT: A Glimpse at an Enlightened Perl: Exception Handling
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Exceptions - A Glimpse at an Enlightened Perl: Exception Handling
 
 =head1 VERSION
 
-version 0.34003
+version 0.34004
 
 =head1 SYNOPSIS
 
