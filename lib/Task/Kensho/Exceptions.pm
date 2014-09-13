@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Exceptions;
-# git description: v0.36-26-g606fbd7
-$Task::Kensho::Exceptions::VERSION = '0.37';
+# git description: v0.37-28-g561c4a0
+$Task::Kensho::Exceptions::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Exception Handling
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::Exceptions - A Glimpse at an Enlightened Perl: Exception Handling
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
